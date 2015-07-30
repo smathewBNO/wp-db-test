@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>WP Multi-Step Form</title>		
+		<title>WP Multi-Step Form DEMO</title>		
 		<?php wp_head(); ?>		
 		<!--[if IE]>
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
